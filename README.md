@@ -3,6 +3,6 @@
 原始数据下载地址如下  
 https://www.openstreetmap.org/relation/2315704   
 https://mapzen.com/data/metro-extracts/metro/boston_massachusetts/   
-“boston_massachusetts.osm”文件由"extract.py"对原始数据抽样1/40所得 
-"audit.py"程序用于检测数据 
+“boston_massachusetts.osm”文件由"extract.py"对原始数据抽样1/40所得  
+"audit.py"程序用于检测数据   
 “data.py”提取数据中的一级元素节点和路径及其二级元素的信息并存入csv文件 
