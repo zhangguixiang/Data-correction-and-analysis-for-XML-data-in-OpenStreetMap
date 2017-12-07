@@ -1,0 +1,1 @@
+sqlite3.exe boston_massachusetts.db ".read import_from_csv.sql"
